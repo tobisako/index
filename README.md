@@ -2,6 +2,20 @@
 githubで公開している内容のインデックスです。  gitリポジトリ及びgistを登録しています。  
 (※現在、追加アップを準備中です。）  
 
+# Ｃ＃  
+  **repositories**  
+  <https://github.com/tobisako/work_VisualCSharp>  
+  　AniGifTest01  
+  　AntiAliasTest  
+  　GameSen3  
+  　MobaTes  
+  　WindowsFormsApplication1  
+  　PackTest  
+
+  **Gists**  
+  <https://gist.github.com/tobisako/3533827>  
+  　C# シリアル化・逆シリアル化(XML)  
+
 # Ｃ＋＋  
 **repositories**  
 <https://github.com/tobisako/BombMaster33>  
@@ -41,20 +55,6 @@ githubで公開している内容のインデックスです。  gitリポジト
 　C++ 関数テンプレート、パラメータ３つ。  
 <https://gist.github.com/tobisako/2777271>  
 　C++/CLI アイドル・デリゲート  
-
-# Ｃ＃  
-**repositories**  
-<https://github.com/tobisako/work_VisualCSharp>  
-　AniGifTest01  
-　AntiAliasTest  
-　GameSen3  
-　MobaTes  
-　WindowsFormsApplication1  
-　PackTest  
-
-**Gists**  
-<https://gist.github.com/tobisako/3533827>  
-　C# シリアル化・逆シリアル化(XML)  
 
 # Ｊａｖａ  
 **repositories**  
