@@ -8,9 +8,9 @@ githubで公開している内容のインデックスです。  gitリポジト
 　　　AniGifTest01　…　GIF画像表示・アニメーション    
 　　　AntiAliasTest　…　アンチエイリアス実験  
 　　　GameSen3　…　UI画面遷移実験  
-　  　MobaTes　…　C#からMySQLへ接続  
-　  　WindowsFormsApplication1　…　簡単なUIテスト  
-  　　PackTest　…　パックマン表示テスト  
+　　　MobaTes　…　C#からMySQLへ接続  
+　　　WindowsFormsApplication1　…　簡単なUIテスト  
+　　　PackTest　…　パックマン表示テスト  
   **Gists**  
 　[C# シリアル化・逆シリアル化(XML)](https://gist.github.com/tobisako/3533827)  
 
