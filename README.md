@@ -4,33 +4,32 @@ githubで公開している内容のインデックスです。  gitリポジト
 
 # Ｃ＃  
   **repositories**  
-  <https://github.com/tobisako/work_VisualCSharp>  
-  　AniGifTest01　…　GIF画像表示・アニメーション    
-  　AntiAliasTest　…　アンチエイリアス実験  
-  　GameSen3　…　UI画面遷移実験  
-  　MobaTes　…　C#からMySQLへ接続  
-  　WindowsFormsApplication1　…　簡単なUIテスト  
-  　PackTest　…　パックマン表示テスト  
+　[C#サンプル(work_VisualCSharp)](https://github.com/tobisako/work_VisualCSharp)  
+　　　AniGifTest01　…　GIF画像表示・アニメーション    
+　　　AntiAliasTest　…　アンチエイリアス実験  
+　　　GameSen3　…　UI画面遷移実験  
+　  　MobaTes　…　C#からMySQLへ接続  
+　  　WindowsFormsApplication1　…　簡単なUIテスト  
+  　　PackTest　…　パックマン表示テスト  
   **Gists**  
 　[C# シリアル化・逆シリアル化(XML)](https://gist.github.com/tobisako/3533827)  
 
 # Ｃ＋＋  
 **repositories**  
-<https://github.com/tobisako/GununuSlot>  
-　ぐぬぬスロットゲーム  
-<https://github.com/tobisako/SagiJanken>  
-　詐欺じゃんけん  
-<https://github.com/tobisako/BombMaster33>  
-　爆弾処理ゲーム  
-<https://github.com/tobisako/work_VisualCpp>  
-　Sankaku01　…　三角関数を使ってキャラ移動  
-　AniGifTest01　…　GIF画像表示・アニメーション  
-　Win32Test　…　Win32API(非フレームワーク)のシンプルなWindow  
-　StlTest02　…　マウスオーバーの中心に画像が配置されるサンプルゲーム  
+　[ぐぬぬスロットゲーム(GununuSlot)](https://github.com/tobisako/GununuSlot)  
+　[詐欺じゃんけん(SagiJanken)](https://github.com/tobisako/SagiJanken)  
+　[爆弾処理ゲーム(BombMaster33)](https://github.com/tobisako/BombMaster33)  
+　[C++サンプル(work_VisualCpp)](https://github.com/tobisako/work_VisualCpp)  
+　　　Sankaku01　…　三角関数を使ってキャラ移動  
+　　　AniGifTest01　…　GIF画像表示・アニメーション  
+　　　Win32Test　…　Win32API(非フレームワーク)のシンプルなWindow  
+　　　Win32Test01　…　Win32API(非フレームワーク)にBMP画像展開を加えたサンプル  
+　　　StlTest02　…　マウスオーバーの中心に画像が配置されるサンプルゲーム  
+　　　SlimDXTest　…　Direct3Dを使った3D描画サンプル  
 **Gists**  
 　[VC++/CLI SlimDXでXAudio2](https://gist.github.com/tobisako/3173238)  
 　[C++ デリゲート delegate](https://gist.github.com/tobisako/3069378)  
-　[STL詰め合わせ](https://gist.github.com/tobisako/3047975)  
+　[C++ STL詰め合わせ](https://gist.github.com/tobisako/3047975)  
 　[C++ STL list（クラスポインタのリスト）](https://gist.github.com/tobisako/2969175)  
 　[VC++/CLI matrix,draw](https://gist.github.com/tobisako/2948314)  
 　[C++ map / list / アップキャスト / 純粋仮想関数 / listでポリモーフィズムの維持。](https://gist.github.com/tobisako/2935096)  
@@ -48,14 +47,18 @@ githubで公開している内容のインデックスです。  gitリポジト
 
 # Ｊａｖａ  
 **repositories**  
-<https://github.com/tobisako/work_JavaSwing>  
-　SwingProject　…　2D静止画をアニメーションさせるサンプル  
-　SwingKeyTest　…　キーボードイベント処理サンプル  
-　SwingDesiignTestProject　…　ArrayList()動的配列サンプル  
-<https://github.com/tobisako/work_JavaServlet>  
-　※準備中。  
+　[Java(Swing)サンプル(work_JavaSwing)](https://github.com/tobisako/work_JavaSwing)  
+　　　SwingProject　…　2D静止画をアニメーションさせるサンプル  
+　　　SwingKeyTest　…　キーボードイベント処理サンプル  
+　　　SwingDesiignTestProject　…　ArrayList()動的配列サンプル  
+　　　WebApiTest　…　WebAPI(Twitter)でツイートするサンプル  
+　　　WebScrapingTest　…　カラオケサイト(JOYSOUND)Webサイトから歌手名データ等を自動抽出するサンプル  
+　[Javaサーブレットサンプル(work_JavaServlet)](https://github.com/tobisako/work_JavaServlet)  
+　　　JSONServerTest / JSONClientTest　…　JSONサーバー／JSONクライアントのテスト  
+　　　SOAPServerTest(1-3) / SoapClientSwing　…　SOAPサーバー／SOAPクライアントのテスト  
+　　　OAuthTest　…　OAuth認証を行ってツイートするサンプル  
 **Gists**  
-　[Java 基本勉強会](https://gist.github.com/tobisako/3195819)  
+　[基本勉強会](https://gist.github.com/tobisako/3195819)  
 
 # ActionScript  
 **repositories**  
@@ -70,9 +73,13 @@ githubで公開している内容のインデックスです。  gitリポジト
 # ドキュメント（仕様書・プレゼン資料等）  
 現場で使われてそうな資料を自作しています。  
 **repositories**  
-<https://github.com/tobisako/document>  
-　設計書・性能試験・提案資料など。  
-
-
+　[ドキュメント(document)](https://github.com/tobisako/document)  
+　　　【RT】ネイティブプラットフォーム用UIフレームワーク設計書（サンプル）.pdf  
+　　　【RT】新機種パフォーマンス測定.pdf  
+　　　【RT】GPS測位性能測定.pdf  
+　　　【RT】WebAPI_勉強会1_資料.pdf  
+　　　【RT】WebAPI_勉強会2_資料.pdf  
+　　　【RT】病院向け老人徘徊見守りシステム（サンプル）.pdf  
+　　　【RT】中小企業業務改善ＩＴコンサルご案内（サンプル）.pdf  
 
 [以上]
