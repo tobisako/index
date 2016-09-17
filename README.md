@@ -5,68 +5,57 @@ githubで公開している内容のインデックスです。  gitリポジト
 # Ｃ＃  
   **repositories**  
   <https://github.com/tobisako/work_VisualCSharp>  
-  　AniGifTest01  
-  　AntiAliasTest  
-  　GameSen3  
-  　MobaTes  
-  　WindowsFormsApplication1  
-  　PackTest  
-
+  　AniGifTest01　…　GIF画像表示・アニメーション    
+  　AntiAliasTest　…　アンチエイリアス実験  
+  　GameSen3　…　UI画面遷移実験  
+  　MobaTes　…　C#からMySQLへ接続  
+  　WindowsFormsApplication1　…　簡単なUIテスト  
+  　PackTest　…　パックマン表示テスト  
   **Gists**  
-  <https://gist.github.com/tobisako/3533827>  
-  　C# シリアル化・逆シリアル化(XML)  
+　[C# シリアル化・逆シリアル化(XML)](https://gist.github.com/tobisako/3533827)  
 
 # Ｃ＋＋  
 **repositories**  
+<https://github.com/tobisako/GununuSlot>  
+　ぐぬぬスロットゲーム  
+<https://github.com/tobisako/SagiJanken>  
+　詐欺じゃんけん  
 <https://github.com/tobisako/BombMaster33>  
 　爆弾処理ゲーム  
-
+<https://github.com/tobisako/work_VisualCpp>  
+　Sankaku01　…　三角関数を使ってキャラ移動  
+　AniGifTest01　…　GIF画像表示・アニメーション  
+　Win32Test　…　Win32API(非フレームワーク)のシンプルなWindow  
+　StlTest02　…　マウスオーバーの中心に画像が配置されるサンプルゲーム  
 **Gists**  
-<https://gist.github.com/tobisako/3173238>  
-　VC++/CLI SlimDXでXAudio2  
-<https://gist.github.com/tobisako/3069378>  
-　C++ デリゲート delegate  
-<https://gist.github.com/tobisako/3047975>  
-　STL詰め合わせ  
-<https://gist.github.com/tobisako/2969175>  
-　C++ STL list（クラスポインタのリスト）  
-<https://gist.github.com/tobisako/2948314>  
-　VC++/CLI matrix,draw  
-<https://gist.github.com/tobisako/2935096>  
-　C++ map / list / アップキャスト / 純粋仮想関数 / listでポリモーフィズズの維持。  
-<https://gist.github.com/tobisako/2931320>  
-　C++ STL map 仮想関数  
-<https://gist.github.com/tobisako/2912501>  
-　C++/CLI MouseMove  
-<https://gist.github.com/tobisako/2869311>  
-　C++/CLI PictureBox->Image、PictureBox->DrawImage 画像の伸縮など  
-<https://gist.github.com/tobisako/2847014>  
-<https://gist.github.com/tobisako/2850897>  
-　C++ コピーコンストラクタ  
-<https://gist.github.com/tobisako/2839526>  
-　C++ STL vector  
-<https://gist.github.com/tobisako/2819793>  
-　C++ HWND取得(Win32SDK開発用)：取得編。  
-<https://gist.github.com/tobisako/2782491>  
-　C++ テンプレート・クラスの例。  
-<https://gist.github.com/tobisako/2782362>    
-　C++ クラスの中にテンプレート関数が埋まっているケース。  
-<https://gist.github.com/tobisako/2781985>  
-　C++ 関数テンプレート、パラメータ３つ。  
-<https://gist.github.com/tobisako/2777271>  
-　C++/CLI アイドル・デリゲート  
+　[VC++/CLI SlimDXでXAudio2](https://gist.github.com/tobisako/3173238)  
+　[C++ デリゲート delegate](https://gist.github.com/tobisako/3069378)  
+　[STL詰め合わせ](https://gist.github.com/tobisako/3047975)  
+　[C++ STL list（クラスポインタのリスト）](https://gist.github.com/tobisako/2969175)  
+　[VC++/CLI matrix,draw](https://gist.github.com/tobisako/2948314)  
+　[C++ map / list / アップキャスト / 純粋仮想関数 / listでポリモーフィズムの維持。](https://gist.github.com/tobisako/2935096)  
+　[C++ STL map 仮想関数](https://gist.github.com/tobisako/2931320)  
+　[C++/CLI MouseMove](https://gist.github.com/tobisako/2912501)  
+　[C++/CLI PictureBox->Image、PictureBox->DrawImage 画像の伸縮など](https://gist.github.com/tobisako/2869311)  
+　[C++ コピーコンストラクタa](https://gist.github.com/tobisako/2847014)  
+　[C++ コピーコンストラクタb](https://gist.github.com/tobisako/2850897)  
+　[C++ STL vector](https://gist.github.com/tobisako/2839526)  
+　[C++ HWND取得(Win32SDK開発用)：取得編。](https://gist.github.com/tobisako/2819793)  
+　[C++ テンプレート・クラスの例。](https://gist.github.com/tobisako/2782491)  
+　[C++ クラスの中にテンプレート関数が埋まっているケース。](https://gist.github.com/tobisako/2782362)  
+　[C++ 関数テンプレート、パラメータ３つ。](https://gist.github.com/tobisako/2781985)  
+　[C++/CLI アイドル・デリゲート](https://gist.github.com/tobisako/2777271)  
 
 # Ｊａｖａ  
 **repositories**  
 <https://github.com/tobisako/work_JavaSwing>  
-　SwingProject  
-　SwingKeyTest  
-　SwingDesiignTestProject  
+　SwingProject　…　2D静止画をアニメーションさせるサンプル  
+　SwingKeyTest　…　キーボードイベント処理サンプル  
+　SwingDesiignTestProject　…　ArrayList()動的配列サンプル  
 <https://github.com/tobisako/work_JavaServlet>  
 　※準備中。  
 **Gists**  
-<https://gist.github.com/tobisako/3195819>  
-　Java 基本勉強会  
+　[Java 基本勉強会](https://gist.github.com/tobisako/3195819)  
 
 # ActionScript  
 **repositories**  
@@ -81,7 +70,9 @@ githubで公開している内容のインデックスです。  gitリポジト
 # ドキュメント（仕様書・プレゼン資料等）  
 現場で使われてそうな資料を自作しています。  
 **repositories**  
-※アップ準備中。
+<https://github.com/tobisako/document>  
+　設計書・性能試験・提案資料など。  
+
 
 
 [以上]
